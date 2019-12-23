@@ -1,0 +1,6 @@
+module Pods_MagotanIM {
+  umbrella header "Pods-MagotanIM-umbrella.h"
+
+  export *
+  module * { export * }
+}
