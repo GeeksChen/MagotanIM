@@ -130,7 +130,7 @@ self.msgField.text = @"";
 }];
 ```
 
->不管大佬们关不关注公众号，我都会放上本章的[Demo](https://github.com/GeeksChen/chatroom)
+>不管大佬们关不关注公众号，我都会放上本章的[Demo](https://github.com/GeeksChen/MagotanIM)
 
 个人作品1：（匿名聊天）
 [http://im.meetyy.cn/](http://im.meetyy.cn/)
